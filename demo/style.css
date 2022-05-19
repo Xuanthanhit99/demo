@@ -23,7 +23,7 @@ ul {
 .header {
     width: 100%;
     height: 768px;
-    background-image: url('./bg-image.png');
+    background-image: url('./image/bg-image.png');
     background-position: center;
     background-repeat: no-repeat;
     position: relative;
